@@ -1,4 +1,7 @@
-### Hi there 👋
+### Thank you for visiting my Github profile! 👋 
+### I am _Ross_, a 25 year old Computer Science teacher currently based in Nottingham, UK :european_castle:.
+
+I studied Computing (BSc) at the University of Leicester and following my graduation, I have moved into teaching Computer Science to students between the ages of 11 and 16. I am currently teaching myself web development in my spare time.
 
 To learn web development, I have been working through 'The Odin Project'. Throughout my journey so far I have been completing several projects which demonstrate my progress and have allowed me to consolidate my knowledge and understanding of the content taught. Below are two lists of the projects I have worked on so far, they have been ordered in terms of projects I am most excited about.
 
@@ -7,9 +10,9 @@ To learn web development, I have been working through 'The Odin Project'. Throug
 2. _Rock Paper Scissors Game (Using JavaScript)_ https://rosstarrant.github.io/rock-paper-scissors/
 3. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
 
-🔭 **I’m currently working on...** updating my Rock Paper Scissors with a graphical user interface.
+:pencil2: **I’m currently working on...** updating my Rock Paper Scissors with a graphical user interface.
 
-🌱 **I’m currently learning...** how I can use Javascript to manipulate the DOM.
+:man_student: **I’m currently learning...** how I can use Javascript to manipulate the DOM.
 
 📫 **How to reach me:** You can email me at - rosstarrant3@gmail.com
 
