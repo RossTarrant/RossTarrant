@@ -9,8 +9,9 @@ Below is a list of the projects I have worked on so far. They have been ordered 
 
 **⚡ List of projects completed so far (Repositories for projects can be found on my Github profile!):**
 1. _Rock Paper Scissors Game (Using JavaScript)_ https://rosstarrant.github.io/rock-paper-scissors/
-2. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
-3. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
+2. _Etch-a-Sketch Web Application (Using JavaScript and CSS)_ https://rosstarrant.github.io/etch-a-sketch/
+3. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
+4. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
 
 :pencil2: **I’m currently working on...** an in-browser version of an Etch-a-Sketch !!!
 
