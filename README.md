@@ -12,7 +12,7 @@ Below is a list of the projects I have worked on so far. They have been ordered 
 2. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
 3. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
 
-:pencil2: **I’m currently working on...** updating my Rock Paper Scissors with a graphical user interface.
+:pencil2: **I’m currently working on...** an in-browser version of an Etch-a-Sketch !!!
 
 :man_student: **I’m currently learning...** how I can use Javascript to manipulate the DOM.
 
