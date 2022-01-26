@@ -8,8 +8,8 @@ To learn web development, I have been working through 'The Odin Project'. Throug
 Below is a list of the projects I have worked on so far. They have been ordered in terms of projects I am most excited about.
 
 **⚡ List of projects completed so far (Repositories for projects can be found on my Github profile!):**
-1. _Rock Paper Scissors Game (Using JavaScript)_ https://rosstarrant.github.io/rock-paper-scissors/
-2. _Etch-a-Sketch Web Application (Using JavaScript and CSS)_ https://rosstarrant.github.io/etch-a-sketch/
+1. _Etch-a-Sketch Web Application (Using JavaScript and CSS)_ https://rosstarrant.github.io/etch-a-sketch/
+2. _Rock Paper Scissors Game (Using JavaScript)_ https://rosstarrant.github.io/rock-paper-scissors/
 3. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
 4. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
 
