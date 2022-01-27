@@ -5,7 +5,7 @@ I studied Computing (BSc) at the University of Leicester and following my gradua
 
 To learn web development, I have been working through 'The Odin Project'. Throughout my journey so far I have been completing several projects which demonstrate my progress and have allowed me to consolidate my knowledge and understanding of the content I have been learning. 
 
-_I am a very reflective learner, I like to take the time to reflect on what went well in a piece of work, what I learned and the challenges that I faced throughout it. For each project I write a project reflection in the README.md of the repository, I have found this technique really helps the learning process._
+_I am a very reflective learner, I like to take the time to reflect on what went well in a piece of work, what I learned and the challenges that I faced throughout it. For each project I write a project reflection in the README.md of the repository, I have found this technique really helps with my learning process._
 
 Below is a list of the projects I have worked on so far. They have been ordered in terms of projects I am most excited about.
 
