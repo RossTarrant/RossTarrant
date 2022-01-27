@@ -5,6 +5,8 @@ I studied Computing (BSc) at the University of Leicester and following my gradua
 
 To learn web development, I have been working through 'The Odin Project'. Throughout my journey so far I have been completing several projects which demonstrate my progress and have allowed me to consolidate my knowledge and understanding of the content I have been learning. 
 
+_I am a very reflective learner, I like to take the time to reflect on what went well in a piece of work, what I learned and the challenges that I faced throughout it. For each project I write a project reflection in the README.md of the repository, I have found this technique really helps the learning process._
+
 Below is a list of the projects I have worked on so far. They have been ordered in terms of projects I am most excited about.
 
 **⚡ List of projects completed so far (Repositories for projects can be found on my Github profile!):**
@@ -15,21 +17,7 @@ Below is a list of the projects I have worked on so far. They have been ordered 
 
 :pencil2: **I’m currently working on...** an in-browser version of an Etch-a-Sketch !!!
 
-:man_student: **I’m currently learning...** how I can use Javascript to manipulate the DOM.
+:man_student: **I’m currently learning...** how I can use JavaScript to manipulate the DOM.
 
 📫 **How to reach me:** You can email me at - rosstarrant3@gmail.com
 
-<!--
-**RossTarrant/RossTarrant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
