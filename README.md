@@ -15,9 +15,12 @@ Below is a list of the projects I have worked on so far. They have been ordered 
 3. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
 4. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
 
-:pencil2: **I’m currently working on...** an in-browser version of an Etch-a-Sketch !!!
+:pencil2: **I’m currently working on...** an in-browser calculator! So far I have created the html/css for the page and will be updating it with working JavaScript code after the weekend. https://rosstarrant.github.io/calculator/
 
-:man_student: **I’m currently learning...** how I can use JavaScript to manipulate the DOM.
+:man_student: **I’m currently learning...** 
+- how I can use JavaScript to manipulate the DOM
+- JavaScript array methods (e.g. map(), reduce(), sort() )
+- how objects work in JavaScript
 
 📫 **How to reach me:** You can email me at - rosstarrant3@gmail.com
 
