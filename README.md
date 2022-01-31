@@ -10,12 +10,13 @@ _I am a very reflective learner, I like to take the time to reflect on what went
 Below is a list of the projects I have worked on so far. They have been ordered in terms of projects I am most excited about.
 
 **⚡ List of projects completed so far (Repositories for projects can be found on my Github profile!):**
-1. _Etch-a-Sketch Web Application (Using JavaScript and CSS)_ https://rosstarrant.github.io/etch-a-sketch/
-2. _Rock Paper Scissors Game (Using JavaScript)_ https://rosstarrant.github.io/rock-paper-scissors/
-3. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
-4. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
+1. _Calculator (Using JavaScript and CSS)_ https://rosstarrant.github.io/calculator/
+2. _Etch-a-Sketch Web Application (Using JavaScript and CSS)_ https://rosstarrant.github.io/etch-a-sketch/
+3. _Rock Paper Scissors Game (Using JavaScript)_ https://rosstarrant.github.io/rock-paper-scissors/
+4. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
+5. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
 
-:pencil2: **I’m currently working on...** an in-browser calculator! So far I have created the html/css for the page and will be updating it with working JavaScript code after the weekend. https://rosstarrant.github.io/calculator/
+:pencil2: **I’m currently working on...** an fully functioning, in-browser calculator! This has mostly been completed, with my focus now being on fixing bugs.
 
 :man_student: **I’m currently learning...** 
 - how I can use JavaScript to manipulate the DOM
