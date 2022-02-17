@@ -11,17 +11,18 @@ Below is a list of the projects I have worked on so far. They have been ordered 
 
 **⚡ List of projects completed so far (Repositories for projects can be found on my Github profile!):**
 1. _Calculator (Using JavaScript and CSS)_ https://rosstarrant.github.io/calculator/
-2. _Etch-a-Sketch Web Application (Using JavaScript and CSS)_ https://rosstarrant.github.io/etch-a-sketch/
-3. _Rock Paper Scissors Game (Using JavaScript)_ https://rosstarrant.github.io/rock-paper-scissors/
-4. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
-5. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
+2. _Sign Up Form (Using HTML/CSS/JS for validation)_ https://rosstarrant.github.io/sign-up-form/
+3. _Etch-a-Sketch Web Application (Using JavaScript and CSS)_ https://rosstarrant.github.io/etch-a-sketch/
+4. _Rock Paper Scissors Game (Using JavaScript)_ https://rosstarrant.github.io/rock-paper-scissors/
+5. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
+6. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
 
-:pencil2: **I’m currently working on...** an fully functioning, in-browser calculator! This has mostly been completed, with my focus now being on fixing bugs.
+:pencil2: **I’m currently working on...** an admin dashboard layout, created using CSS Grid.
 
 :man_student: **I’m currently learning...** 
-- how I can use JavaScript to manipulate the DOM
-- JavaScript array methods (e.g. map(), reduce(), sort() )
-- how objects work in JavaScript
+- CSS Grid
+- HTML Forms combined with JS Validation
+- Responsive CSS techniques
 
 📫 **How to reach me:** You can email me at - rosstarrant3@gmail.com
 
