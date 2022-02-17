@@ -10,7 +10,7 @@ _I am a very reflective learner, I like to take the time to reflect on what went
 Below is a list of the projects I have worked on so far. They have been ordered in terms of projects I am most excited about.
 
 **⚡ List of projects completed so far (Repositories for projects can be found on my Github profile!):**
-1. _Calculator (Using JavaScript and CSS)_ https://rosstarrant.github.io/calculator/\
+1. _Calculator (Using JavaScript and CSS)_ https://rosstarrant.github.io/calculator/
 2. _Admin Dashboard Mock Design (Using CSS Grid)_ https://rosstarrant.github.io/admin-dashboard/
 3. _Sign Up Form (Using HTML/CSS/JS for validation)_ https://rosstarrant.github.io/sign-up-form/
 4. _Etch-a-Sketch Web Application (Using JavaScript and CSS)_ https://rosstarrant.github.io/etch-a-sketch/
