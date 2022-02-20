@@ -10,19 +10,20 @@ _I am a very reflective learner, I like to take the time to reflect on what went
 Below is a list of the projects I have worked on so far. They have been ordered in terms of projects I am most excited about.
 
 **⚡ List of projects completed so far (Repositories for projects can be found on my Github profile!):**
-1. _Calculator (Using JavaScript and CSS)_ https://rosstarrant.github.io/calculator/
-2. _Admin Dashboard Mock Design (Using CSS Grid)_ https://rosstarrant.github.io/admin-dashboard/
-3. _Sign Up Form (Using HTML/CSS/JS for validation)_ https://rosstarrant.github.io/sign-up-form/
-4. _Etch-a-Sketch Web Application (Using JavaScript and CSS)_ https://rosstarrant.github.io/etch-a-sketch/
-5. _Rock Paper Scissors Game (Using JavaScript)_ https://rosstarrant.github.io/rock-paper-scissors/
-6. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
-7. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
+1. _Library App_ (Using JavaScript and CSS)_ https://rosstarrant.github.io/library/
+2. _Calculator (Using JavaScript and CSS)_ https://rosstarrant.github.io/calculator/
+3. _Admin Dashboard Mock Design (Using CSS Grid)_ https://rosstarrant.github.io/admin-dashboard/
+4. _Sign Up Form (Using HTML/CSS/JS for validation)_ https://rosstarrant.github.io/sign-up-form/
+5. _Etch-a-Sketch Web Application (Using JavaScript and CSS)_ https://rosstarrant.github.io/etch-a-sketch/
+6. _Rock Paper Scissors Game (Using JavaScript)_ https://rosstarrant.github.io/rock-paper-scissors/
+7. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
+8. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
 
-:pencil2: **I’m currently working on...** an admin dashboard layout, created using CSS Grid.
+:pencil2: **I’m currently working on...** creating a library app to track read/unread books.
 
 :man_student: **I’m currently learning...** 
 - CSS Grid
-- HTML Forms combined with JS Validation
+- Objects in Javascript
 - Responsive CSS techniques
 
 📫 **How to reach me:** You can email me at - rosstarrant3@gmail.com
