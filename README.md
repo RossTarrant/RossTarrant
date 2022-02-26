@@ -26,7 +26,7 @@ Below is a list of the projects I have worked on so far. They have been ordered 
 - Factory Functions
 - Modules
 - Scope
-- Privare variables and functions
+- Private variables and functions
 - Responsive CSS techniques
 
 📫 **How to reach me:** You can email me at - rosstarrant3@gmail.com
