@@ -19,11 +19,14 @@ Below is a list of the projects I have worked on so far. They have been ordered 
 7. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
 8. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
 
-:pencil2: **I’m currently working on...** creating a library app to track read/unread books.
+:pencil2: **I’m currently working on...** creating a browser version of noughts and crosses (tic tac toe) that uses factory functions and objects with public and private methods.
 
 :man_student: **I’m currently learning...** 
 - CSS Grid
-- Objects in Javascript
+- Factory Functions
+- Modules
+- Scope
+- Privare variables and functions
 - Responsive CSS techniques
 
 📫 **How to reach me:** You can email me at - rosstarrant3@gmail.com
