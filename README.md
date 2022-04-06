@@ -22,12 +22,13 @@ Below is a list of the projects I have worked on so far. They have been ordered 
 10. _Landing Page (Using HTML/CSS/Flexbox)_ https://rosstarrant.github.io/Landing-Page/
 11. _Recipes Page (Using basic HTML)_ https://rosstarrant.github.io/odin-recipes/
 
-:pencil2: **I’m currently working on...** creating a browser version of a todo list!
+:pencil2: **I’m currently working on...** creating a weather application!
 
 :man_student: **I’m currently learning...** 
-- Webpack
-- JS Classes
-- Responsive CSS techniques
+- Asynchronous Coding
+- Async/Await
+- Promises
+- Using APIs
 
 📫 **How to reach me:** You can email me at - rosstarrant3@gmail.com
 
