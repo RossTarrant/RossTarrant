@@ -1,7 +1,7 @@
 Below is a list of the projects I have worked on so far. They have been ordered in terms of projects I am most excited about.
 
 **⚡ List of projects completed so far (Repositories for projects can be found on my Github profile!):**
-1. _Shopping Cart_ (Using React, React Router & React Testing Library / Jest) https://rosstarrant.github.io
+1. _Shopping Cart_ (Using React, React Router & React Testing Library / Jest) https://rosstarrant.github.io/shopping-cart/
 2. _CV Project_ (Using React Components, State & Hooks) https://rosstarrant.github.io/cv-project/
 3. _Battleship_ (Using TDD / Modules / Factories / Webpack / Jest) https://rosstarrant.github.io/battleship/
 4. _Todo List_ (Using JavaScript Modules, Classes and Webpack) https://rosstarrant.github.io/todo-list/
